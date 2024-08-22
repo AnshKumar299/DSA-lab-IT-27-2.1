@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//TRISANJIT BARACHODA
 typedef struct {
     int coefficient;
     int exponent;
